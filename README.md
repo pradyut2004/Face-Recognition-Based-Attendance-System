@@ -1,2 +1,1 @@
-# Face-Recognition-Based-Attendance-System
-Face-Recognition-Based-Attendance-System
+# Face-Recognization-Based-Attandance-System
